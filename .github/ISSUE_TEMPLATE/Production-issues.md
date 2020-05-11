@@ -7,13 +7,9 @@ assignees: ''
 
 ---
 
-**Production issues should be reported in ServiceNow **
+**Are you have a Production issue, then please report it into ServiceNow **
 
-**Is a production issue ? **
+Select the apporiate instance of service now  and report the issue.:
 
-Please log on to the apporiate instance of service now  and report the issue.:
-
-Production issues should be reported in ServiceNow.
-
-Platform DXC ServiceNow link:
+Please find the Platform DXC ServiceNow link:
 https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx
