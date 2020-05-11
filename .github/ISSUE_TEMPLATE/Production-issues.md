@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **If you have a Production issue, then please report it into ServiceNow **
+(Please do not open a Issue in GitHub!!)
 
 Select the apporiate instance of service now  and report the issue.:
 
