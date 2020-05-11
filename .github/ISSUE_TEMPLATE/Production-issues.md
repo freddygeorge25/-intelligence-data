@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Are you have a Production issue, then please report it into ServiceNow **
+**If you have a Production issue, then please report it into ServiceNow **
 
 Select the apporiate instance of service now  and report the issue.:
 
