@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 **Issues related to a specific epic**
+(Please do not open a Issue in GitHub!!)
+
 Issues related to a specific epic should be reported as a bug within that epic
 
 Steps to follow:
