@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 **Is it a bug to be reported**
+(Please do not open a Issue in GitHub!!)
+
 Please follow the below steps.
 
 Steps to follow:
