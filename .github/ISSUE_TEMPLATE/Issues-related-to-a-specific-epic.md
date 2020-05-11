@@ -1,6 +1,6 @@
 ---
 name: Issues related to a specific epic
-about: Create a report to help us improve
+about: Bug reported for epic
 title: ''
 labels: ''
 assignees: ''
