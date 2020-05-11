@@ -1,5 +1,5 @@
 ---
-name: Product Issue
+name: Production Issue
 about: Reporting production issue to ServiceNow
 title: ''
 labels: ''
