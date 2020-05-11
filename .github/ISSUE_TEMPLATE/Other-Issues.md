@@ -1,38 +1,18 @@
 ---
 name: Other issues
-about: Create a report to help us improve
+about: Other issues should be reported as a bug in the default bug-tracking epic
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Is it a bug to be reported**
+Please follow the below steps.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Steps to follow:
+1. Go to 'https://jira.csc.com/'
+2. Mouse hover on Issues click the option Search for issues
+3. on the query line paste the below query: ( Note: replace the fix version as required ) 
+issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_team_generic) and labels = intelli_bug_fix
+4.Select the appropriate epic and report the Bug.
