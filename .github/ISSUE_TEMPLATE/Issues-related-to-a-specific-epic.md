@@ -1,6 +1,6 @@
 ---
 name: Issues related to a specific epic
-about: Bug reported for epic
+about: Bug reported for an epic
 title: ''
 labels: ''
 assignees: ''
