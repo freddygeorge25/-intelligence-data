@@ -9,6 +9,7 @@ assignees: ''
 
 **Issues related to a specific epic**
 Issues related to a specific epic should be reported as a bug within that epic
+
 Steps to follow:
 1. Go to 'https://jira.csc.com/'
 2. Mouse hover on Issues click the option Search for issues
