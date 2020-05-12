@@ -1,6 +1,6 @@
 ---
 name: Other issues
-about: Other issues should be reported as a bug in the default bug-tracking epic
+about: 'Click here for the process [Issues related to a specific epic](Instructions.md)'
 title: ''
 labels: ''
 assignees: ''
