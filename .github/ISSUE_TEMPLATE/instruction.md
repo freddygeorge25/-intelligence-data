@@ -1,6 +1,6 @@
 
 **Issues related to a specific epic**
-(Please do not open a Issue in GitHub!!)
+</br> (Please do not open a Issue in GitHub!!)
 
 Issues related to a specific epic should be reported as a bug within that epic
 
@@ -13,7 +13,7 @@ issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_tea
 
 -----------------------------------------------------------------------------------------------------------------------------
 **Is it a bug to be reported**
-(Please do not open a Issue in GitHub!!)
+</br> (Please do not open a Issue in GitHub!!)
 
 Please follow the below steps.
 
@@ -25,7 +25,7 @@ issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_tea
 4.Select the appropriate epic and report the Bug.</br>
 
 -----------------------------------------------------------------------------------------------------------------------------
-**If you have a Production issue, then please report it into ServiceNow **
+**If you have a Production issue, then please report it into ServiceNow**
 
 </br> (Please do not open a Issue in GitHub!!)
 Select the apporiate instance of service now  and report the issue. </br>
