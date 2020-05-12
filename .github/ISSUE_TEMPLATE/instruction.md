@@ -22,7 +22,7 @@ Steps to follow:
 2. Mouse hover on Issues(top Menu) and on the dropdown click the option Search for issues
 3. on the query line paste the below query: ( Note: replace the fix version as required ) 
 issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_team_generic) and labels = intelli_bug_fix
-4.Select the appropriate epic and report the Bug.</br></br></br></br></br></br>
+4.Select the appropriate epic and report the Bug.</br>
 
 -----------------------------------------------------------------------------------------------------------------------------
 **If you have a Production issue, then please report it into ServiceNow **
@@ -30,5 +30,7 @@ issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_tea
 (Please do not open a Issue in GitHub!!)
 Select the apporiate instance of service now  and report the issue.:
 
-Please find the Platform DXC ServiceNow link:
-https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx
+Please find the Platform DXC [ServiceNow link](https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx )
+</br>
+
+-----------------------------------------------------------------------------------------------------------------------------
