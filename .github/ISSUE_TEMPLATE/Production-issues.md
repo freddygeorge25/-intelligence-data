@@ -1,6 +1,8 @@
 ---
 name: Production Issue
-about: 'Please find the Platform DXC ServiceNow link
+about: '**If you have a Production issue, then please report it into ServiceNow**
+**(Please do not open a Issue in GitHub!!)**
+Please find the Platform DXC ServiceNow link
 https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx'
 title: ''
 labels: ''
