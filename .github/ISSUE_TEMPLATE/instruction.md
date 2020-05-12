@@ -9,7 +9,7 @@ Steps to follow:
 2. Mouse hover on Issues(top menu)and the drop down, click the option Search for issues
 3. on the query line paste the below query: ( Note: replace the fix version as required ) 
 issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_team_generic)
-4. Select the appropriate epic and report the Bug.
+4. Select the appropriate epic and report the Bug. </br></br></br></br></br></br></br>
 
 **Is it a bug to be reported**
 (Please do not open a Issue in GitHub!!)
@@ -21,7 +21,7 @@ Steps to follow:
 2. Mouse hover on Issues(top Menu) and on the dropdown click the option Search for issues
 3. on the query line paste the below query: ( Note: replace the fix version as required ) 
 issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_team_generic) and labels = intelli_bug_fix
-4.Select the appropriate epic and report the Bug.
+4.Select the appropriate epic and report the Bug.</br></br></br></br></br></br>
 
 
 **If you have a Production issue, then please report it into ServiceNow **
