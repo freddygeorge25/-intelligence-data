@@ -1,6 +1,7 @@
 ---
 name: Production Issue
-about: Please find the Platform DXC ServiceNow link <Br>  https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx (
+about: 'Please find the Platform DXC ServiceNow link
+https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx'
 title: ''
 labels: ''
 assignees: ''
