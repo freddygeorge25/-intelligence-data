@@ -1,6 +1,6 @@
 ---
 name: Production Issue
-about: '**If you have a Production issue, then please report it into ServiceNow**
+about: '**If you have a Production issue, then please report it into ServiceNow**'
 title: ''
 labels: ''
 assignees: ''
