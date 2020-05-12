@@ -1,6 +1,6 @@
 ---
 name: Production Issue
-about: 'Click here for the process [Issues related to a specific epic](Instructions.md)'
+about: 'Click here for the process [Production Issue](Instructions.md)'
 title: ''
 labels: ''
 assignees: ''
