@@ -1,8 +1,6 @@
 ---
 name: Production Issue
 about: '**If you have a Production issue, then please report it into ServiceNow**
-**(Please do not open a Issue in GitHub!!)** 
-[Click here](https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx) for more instruction.'
 title: ''
 labels: ''
 assignees: ''
