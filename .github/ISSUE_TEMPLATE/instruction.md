@@ -25,8 +25,8 @@ issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_tea
 
 
 **If you have a Production issue, then please report it into ServiceNow **
-(Please do not open a Issue in GitHub!!)
 
+(Please do not open a Issue in GitHub!!)
 Select the apporiate instance of service now  and report the issue.:
 
 Please find the Platform DXC ServiceNow link:
