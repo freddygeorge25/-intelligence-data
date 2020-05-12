@@ -1,6 +1,6 @@
 ---
 name: Issues related to a specific epic
-about: Click here for the process [Issues related to a specific epic](instructions.md)
+about: Click here for the process [Issues related to a specific epic](Instructions.md)
 title: ''
 labels: ''
 assignees: ''
