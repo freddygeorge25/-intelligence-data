@@ -1,6 +1,6 @@
 ---
 name: Production Issue
-about: '**If you have a Production issue, then please report it into ServiceNow**'
+about: 'Click here for the process [Issues related to a specific epic](Instructions.md)'
 title: ''
 labels: ''
 assignees: ''
