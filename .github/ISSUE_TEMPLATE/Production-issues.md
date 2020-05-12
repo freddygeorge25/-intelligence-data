@@ -1,9 +1,8 @@
 ---
 name: Production Issue
 about: '**If you have a Production issue, then please report it into ServiceNow**
-**(Please do not open a Issue in GitHub!!)**
-Please find the Platform DXC ServiceNow link
-https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx'
+**(Please do not open a Issue in GitHub!!)** 
+Click there for more instruction.'
 title: ''
 labels: ''
 assignees: ''
