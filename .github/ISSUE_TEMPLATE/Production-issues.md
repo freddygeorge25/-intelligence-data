@@ -1,6 +1,6 @@
 ---
 name: Production Issue
-about: Reporting production issue to ServiceNow
+about: Please find the Platform DXC ServiceNow link <Br>  https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx (
 title: ''
 labels: ''
 assignees: ''
