@@ -1,6 +1,6 @@
 ---
 name: Issues related to a specific epic
-about: Bug reported for an epic
+about: Click here for the process [Issues related to a specific epic](instructions.md)
 title: ''
 labels: ''
 assignees: ''
