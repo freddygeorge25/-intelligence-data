@@ -1,11 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Issues related to a specific epic
-    url: Issues-related-to-a-specific-epic.md
-    about: Is it issue related to a specific epic?
-  - name: Production Issue
-    url: Production-issues.md
-    about: If you have a Production issue?
-  - name: Other issues
-    url: Other-Issues.md
-    about: Is it a bug to be reported?
+  - name: GitHub Community Support
+    url: https://github.community/
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
