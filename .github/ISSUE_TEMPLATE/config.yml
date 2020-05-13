@@ -1,8 +1,12 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
+  - name: Production Issue
+    url: https://github.com/freddygeorge25/-intelligence-data/blob/master/.github/ISSUE_TEMPLATE/Production-issues.md
     about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
+  - name: Issue related to specific epic.
     url: https://github.com/freddygeorge25/-intelligence-data/blob/master/.github/ISSUE_TEMPLATE/Issues-related-to-a-specific-epic.md
     about: Please report security vulnerabilities here.
+  - name: Other Issues
+    url: https://github.com/freddygeorge25/-intelligence-data/blob/master/.github/ISSUE_TEMPLATE/Other-Issues.md
+    about: Please report security vulnerabilities here.
+
