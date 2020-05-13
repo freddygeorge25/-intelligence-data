@@ -1,6 +1,6 @@
 ---
-name: Other issues
-about: 'Click here for the process [Other Issues](Instructions.md)'
+name: ''
+about: ''
 title: ''
 labels: ''
 assignees: ''
