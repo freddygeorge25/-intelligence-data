@@ -1,12 +1,12 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Production Issue
+  - name: Report Production Issue
     url: https://github.com/freddygeorge25/-intelligence-data/blob/master/.github/ISSUE_TEMPLATE/Production-issues.md
     about: Please click the Open button on the right side of the box =>
   - name: Issue related to specific epic.
     url: https://github.com/freddygeorge25/-intelligence-data/blob/master/.github/ISSUE_TEMPLATE/Issues-related-to-a-specific-epic.md
     about: Please click the Open button on the right side of the box =>
-  - name: Other Issues
+  - name: Report a bug.
     url: https://github.com/freddygeorge25/-intelligence-data/blob/master/.github/ISSUE_TEMPLATE/Other-Issues.md
     about: Please click the Open button on the right side of the box =>
 
