@@ -1,12 +1,3 @@
----
-name: 'Issues related to a specific epic'
-about: 'Click here for the process [Issues related to a specific epic](Instructions.md)'
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Issues related to a specific epic**
 (Please do not open a Issue in GitHub!!)
 
