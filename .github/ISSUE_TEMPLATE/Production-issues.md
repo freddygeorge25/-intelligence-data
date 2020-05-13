@@ -1,13 +1,7 @@
----
-name: Production Issue
-about: 'Click here for the process [Production Issue](Instructions.md)'
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **If you have a Production issue, then please report it into ServiceNow **
+
+</br>
 (Please do not open a Issue in GitHub!!)
 
 Select the apporiate instance of service now  and report the issue.:
