@@ -1,11 +1,3 @@
----
-name: Other issues
-about: 'Click here for the process [Other Issues](Instructions.md)'
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **Is it a bug to be reported**
 (Please do not open a Issue in GitHub!!)
