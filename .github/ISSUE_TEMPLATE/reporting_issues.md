@@ -20,7 +20,7 @@ https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instan
 
 > [Back to index](#list-of-issues)
 
-## Issues related to a specific epic
+## Issues related to a sepecific epic
 
 Issues related to a specific epic should be reported as a bug within that epic
 
@@ -37,7 +37,7 @@ Issues related to a specific epic should be reported as a bug within that epic
 
 > [Back to index](#list-of-issues)
 
-## Other bugs/defects
+## Other-bugs/defects
 
 **Please follow the below steps.**
 
