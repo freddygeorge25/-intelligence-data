@@ -29,7 +29,7 @@ Issues related to a specific epic should be reported as a bug within that epic
 
 
 
-## Other-bugs or defects
+## Other bugs or defects
 
 **Please follow the below steps.**
 
