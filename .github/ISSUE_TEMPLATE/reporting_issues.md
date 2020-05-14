@@ -2,7 +2,7 @@
 
 - [Production Issue](#production-Issue)
 - [Issues related to a specific epic](#issues-related-to-a-sepecific-epic)
-- [Other bugs/defects](#Other-bugs-or-defects)
+- [Other bugs or defects](#Other-bugs-or-defects)
 
 
 
