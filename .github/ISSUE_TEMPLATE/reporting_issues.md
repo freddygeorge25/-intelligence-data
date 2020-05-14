@@ -1,10 +1,3 @@
-# List of Issues
-
-- [Production Issue](#production-Issue)
-- [Issues related to a specific epic](#issues-related-to-a-sepecific-epic)
-- [Other bugs or defects](#Other-bugs-or-defects)
-
-
 
 ## Production Issue
 
@@ -19,7 +12,7 @@ https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instan
 
 
 
-> [Back to index](#list-of-issues)
+
 
 ## Issues related to a sepecific epic
 
@@ -35,7 +28,6 @@ Issues related to a specific epic should be reported as a bug within that epic
 
 
 
-> [Back to index](#list-of-issues)
 
 ## Other-bugs or defects
 
@@ -48,4 +40,3 @@ Issues related to a specific epic should be reported as a bug within that epic
 4. Select the appropriate epic and report the Bug.
 
 
-> [Back to index](#list-of-issues)
