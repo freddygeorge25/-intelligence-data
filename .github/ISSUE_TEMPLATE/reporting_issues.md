@@ -1,6 +1,6 @@
-[Production Issue](#Production-Issues)
-[Issues related to a specific epic](#Issues-related-to-a-sepecific-epics)
-[Other bugs/defects](#Other-bugs/defects)
+- [Production Issue](#Production-Issues)
+- [Issues related to a specific epic](#Issues-related-to-a-sepecific-epics)
+- [Other bugs/defects](#Other-bugs/defects)
 
 
 
@@ -14,7 +14,7 @@ Select the appropriate instance of service now  and report the issue.:
 Please find the Platform DXC ServiceNow link:
 https://dxcportal.sharepoint.com/sites/SMDevStudio/SitePages/ServiceNow%20Instances.aspx
 
-
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## Issues related to a specific epic
 
@@ -29,7 +29,7 @@ Issues related to a specific epic should be reported as a bug within that epic
 4. Select the appropriate epic and report the Bug.
 
 
-
+<br><br><br><br><br><br><br><br><br><br>
 ## Is it a bug to be reported?
 
 **Please follow the below steps.**
