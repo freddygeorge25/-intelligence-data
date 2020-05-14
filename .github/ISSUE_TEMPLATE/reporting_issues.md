@@ -1,3 +1,9 @@
+[Production Issue](#Production-Issues)
+[Issues related to a specific epic](#Issues-related-to-a-sepecific-epics)
+[Other bugs/defects](#Other-bugs/defects)
+
+
+
 ## Production Issue
 
 **If you have a Production issue, then please report it into ServiceNow**
@@ -24,7 +30,7 @@ Issues related to a specific epic should be reported as a bug within that epic
 
 
 
-## Other bugs/defects
+## Is it a bug to be reported?
 
 **Please follow the below steps.**
 
@@ -33,4 +39,6 @@ Issues related to a specific epic should be reported as a bug within that epic
 3. on the query line paste the below query: ( Note: replace the fix version as required ) 
    issuetype = Epic AND fixVersion = FY20Q4 AND labels in (Intelligence,intelli_team_generic) and labels = intelli_bug_fix
 4. Select the appropriate epic and report the Bug.
+
+
 
