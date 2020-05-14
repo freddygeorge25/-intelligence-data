@@ -24,7 +24,7 @@ Issues related to a specific epic should be reported as a bug within that epic
 
 
 
-## Is it a bug to be reported?
+## Other bugs/defects
 
 **Please follow the below steps.**
 
